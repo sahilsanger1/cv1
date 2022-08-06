@@ -1,0 +1,11 @@
+body{
+    background-color:wheat;
+}
+h2{
+    color:teal;
+}
+hr{
+    background-color: white;
+   border-style: dotted;
+    width:30%;
+}
